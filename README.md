@@ -3,3 +3,4 @@ Visit the website by clicking this link: <p> <a href="https://simranspatel.githu
 <h4>Sneak peek at the webs</h4>
 
 <img src="https://i.imgur.com/xbbz8LL.png" >
+Click <a href="https://github.com/simranspatel/">here</a> to follow me
