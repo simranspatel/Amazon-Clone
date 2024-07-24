@@ -4,8 +4,4 @@
 
 <img src="https://i.imgur.com/xbbz8LL.png" >
  <a href="https://github.com/simranspatel/">Click here</a> to follow me. <br><br>Thank You.
-<style>
-  a{
-    text-decoration:none;
-  }
-</style>
+
